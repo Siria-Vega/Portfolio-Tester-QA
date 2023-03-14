@@ -1,4 +1,4 @@
-# Portfolio-Tester-QA
+# Portfolio Tester QA
 
 Seleccioné una página web y realicé casos de pruebas completos, estos se encuentran en el archivo VegaSiria+casos. 
 
